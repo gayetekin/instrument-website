@@ -46,10 +46,10 @@ bower_components
 !.vscode/extensions.json
 
 # img
-*.jpg
-*.png
-*.avif
-images/
+# *.jpg
+# *.png
+# *.avif
+# images/
 
 # bootstrap
 # assets/
