@@ -52,7 +52,7 @@ bower_components
 images/
 
 # bootstrap
-assets/
+# assets/
 
 # misc
 .sass-cache

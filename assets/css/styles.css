@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
+
+/* *{
+    box-sizing: border-box;
+} */
+/* 
+html{
+    font-size: 62.5%;
+} */
+
+/*body{
+    font-family: 'PT Sans Narrow', sans-serif;   
+}*/
+
+/* .navbar-brand{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 22px;
+} */
+
+/* .navbar-nav{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+} */
+
+/* .container{
+    margin-top: 15rem;
+    margin-bottom: 15rem;
+} */
+
+/* 
+.btn-one{
+    width: 16rem;
+    height: 5rem;
+    margin-left: 3rem;
+    margin-top: 5rem;
+    padding: 1rem 1rem 1rem 2.5rem;
+    font-size: 14px;
+    letter-spacing: 0.1rem;
+    border-radius: 30px;
+    color: black;
+    background-color: white;
+    font-family: 'Roboto Mono', monospace; 
+}
+
+.btn-two{
+    width: 16rem;
+    height: 5rem;
+    margin-left: 3rem;
+    margin-top: 5rem;
+    padding: 1rem 1rem 1rem 2.5rem;
+    font-size: 14px;
+    letter-spacing: 0.1rem;
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    font-family: 'Roboto Mono', monospace; 
+} */
+
+.btn-one:hover{
+    background-color: rgba(255,255,255,0.5);
+}
+
+.btn-two:hover{
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+}
+/* 
+footer{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+} */
+
+/* 
+<!--TODO 1 : Görseller responsive olduğunda alttan üsten sıkışıyor normal görünmüyor. (YAPILDI - MD ile) -->
+<!--TODO 2 : XS yapıda önce görsel sonra yazı gelmeli (YAPILDI)  -->
+<!--TODO 3 : Container boşlukları azaltılmalı (Gerek Yok.) -->
+<!--TODO 4 : Görsel yanındaki yazılar dikey yönde ortalanmalı (YAPILDI) -->
+<!--TODO 5 : Navbar çubuğu boydan boya uzansın (YAPILDI - Margin ile) -->
+<!--TODO 6 : Navbar çubuğu yukarı çıkarken hep gözüksün -->
+<!--TODO 7 : Navbar çubuğunun üstünde küçük bir boşluk var (YAPILDI - Padding ile)--> */
