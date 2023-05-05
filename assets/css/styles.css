@@ -86,7 +86,7 @@ html{
     grid-auto-flow: column;
     grid-auto-columns: calc((100% / 3) - 12px);
     gap: 16px;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 
 .carousel :where(.img-scrolling, .img){
@@ -143,5 +143,3 @@ footer{
     font-family: 'Roboto Mono', monospace;
     font-size: 14px;
 } */
-
-/* 
